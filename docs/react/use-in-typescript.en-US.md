@@ -60,7 +60,7 @@ const App: FC = () => (
 export default App;
 ```
 
-Add `antd/dist/antd.css` at the top of `src/App.css`.
+Add `antd/dist/antd.css` at the top of `src/App.tsx`.
 
 ```css
 @import '~antd/dist/antd.css';
